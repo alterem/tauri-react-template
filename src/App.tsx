@@ -40,7 +40,7 @@ const App = () => {
         </div>
         <Space size="middle">
           <a
-            href="https://github.com/alterem"
+            href="https://github.com/alterem/tauri-react-template"
             target="_blank"
           >
             <GithubOutlined className="text-xl"  />
