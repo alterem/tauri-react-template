@@ -1,5 +1,8 @@
 # Tauri + React + Vite + Tailwind CSS + Ant Design Template Project
 
+![Build Status](https://github.com/alterem/tauri-react-template/actions/workflows/build.yml/badge.svg) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/alterem/tauri-react-template)
+
+
 A modern, fast cross-platform desktop application template.
 
 ## ✨ Project Overview
