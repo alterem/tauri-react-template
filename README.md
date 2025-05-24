@@ -104,8 +104,6 @@ The core project directory structure is:
 
 ## 📸 Screenshots
 
-Application screenshots showcasing the default interface and integration:
-
 ![Application Main Interface Screenshot 1](https://raw.githubusercontent.com/alterem/picFB/master/uPic/2025/05/21/Alterem2025-05-21_16-46-32.jpg)
 
 ![Application Main Interface Screenshot 2](https://raw.githubusercontent.com/alterem/picFB/master/uPic/2025/05/21/Alterem2025-05-21_16-46-38.jpg)
