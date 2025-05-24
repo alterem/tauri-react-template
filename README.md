@@ -110,8 +110,6 @@ Application screenshots showcasing the default interface and integration:
 
 ![Application Main Interface Screenshot 2](https://raw.githubusercontent.com/alterem/picFB/master/uPic/2025/05/21/Alterem2025-05-21_16-46-38.jpg)
 
-**Place screenshot files in the `screenshots` folder under the project root and replace the placeholder filenames above.**
-
 ## ⚙️ Customization
 
 *   **Frontend**: Modify the React code in the `src/` directory, style files (`src/index.css` or others), and `tailwind.config.js` to customize the UI and functionality.
